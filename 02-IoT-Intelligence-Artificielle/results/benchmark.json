@@ -1,0 +1,16 @@
+{
+  "cpu": "x86_64",
+  "n_runs": 1000,
+  "models": {
+    "model_float32.tflite": {
+      "size_kb": 36.32,
+      "mean_ms": 0.0131,
+      "p95_ms": 0.0132
+    },
+    "model_int8.tflite": {
+      "size_kb": 17.73,
+      "mean_ms": 0.0051,
+      "p95_ms": 0.005
+    }
+  }
+}
