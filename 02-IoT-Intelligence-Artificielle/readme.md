@@ -1,6 +1,6 @@
 # 02 - IoT & Intelligence artificielle
 
-**Vidéo (démo + explication technique) :** [À COMPLÉTER avant l'envoi : lien Loom ou YouTube non répertorié]
+**Vidéo (démo + explication technique) :** https://youtu.be/q_jO7KO53Fk
 
 ## Objectif du projet
 
